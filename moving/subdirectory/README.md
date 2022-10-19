@@ -1,8 +1,8 @@
 # Move Your WordPress Files Out of the Root Directory
 
-1 - Move ALL of the WordPress core files into a subdirectory.
-2 - Copy the index.php and .htaccess file to the root
-3 - Update MySQL
+1 - Move ALL of the WordPress core files into a subdirectory.\
+2 - Copy the index.php and .htaccess file to the root.\
+3 - Update MySQL DB.\
 
 > Update MySQL DB
 
