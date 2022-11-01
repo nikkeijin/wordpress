@@ -7,7 +7,7 @@
 > Update MySQL DB
 
 ```
-UPDATE wp_options SET option_value = replace(option_value, 'https://x.co.jp', 'https://y.co.jp') WHERE option_name = 'home' = 'siteurl';
+UPDATE wp_options SET option_value = replace(option_value, 'https://x.co.jp', 'https://y.co.jp') WHERE option_name = 'home';
 ```
 
 ```
